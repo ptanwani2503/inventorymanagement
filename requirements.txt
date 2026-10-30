@@ -1,0 +1,6 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+mcp>=1.28,<2
+litellm>=1.75,<1.106
+python-dotenv>=1.0.0
+pydantic>=2.0.0
